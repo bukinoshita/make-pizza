@@ -2,7 +2,7 @@
 
 > Making a pizza with ES2015
 
-Repository to learn how to make a pizza with JavaScript. Read it on [this series of posts](). The project is not really available on `npm`.
+This repository is to learn how to make a pizza with JavaScript. Read it on [this series of posts](). The project is not really available on `npm`.
 
 I know that it may be a better way to do this, but this project is just to explore different parts of JavaScript in a fun way. That's been said, I will accept any `pull request` on this project, but feel free to open issues so we can discuss.
 
