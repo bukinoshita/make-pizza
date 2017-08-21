@@ -1,0 +1,25 @@
+{
+  "name": "make-pizza",
+  "version": "0.0.0",
+  "description": "Making a pizza with ES2015",
+  "main": "index.js",
+  "repository": "https://github.com/bukinoshita/make-pizza.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "xo --quiet && ava"
+  },
+  "dependencies": {
+    "shout-error": "^0.0.2",
+    "shout-message": "^0.0.2",
+    "shout-success": "^0.0.2"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "eslint-config-prettier": "^2.3.0",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "extends": ["prettier"]
+  }
+}
